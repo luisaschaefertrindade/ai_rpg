@@ -1,2 +1,2 @@
-# ai_rpg
+# Noir RPG
 A noir RPG created with Gemini API.
