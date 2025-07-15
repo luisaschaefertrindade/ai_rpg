@@ -3,7 +3,7 @@ import google.generativeai as genai
 import random
 
 # Replace with your actual Gemini API key
-genai.configure(api_key=st.secrets["AIzaSyByWTC_pAlxt1IcyfPtMU-cieWQPWkjT9o"])
+genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
 model = genai.GenerativeModel("models/gemini-2.5-flash")
 
 st.set_page_config(page_title="🕵️ Dark Secrets RPG", layout="centered")
