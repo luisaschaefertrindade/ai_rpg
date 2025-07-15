@@ -59,6 +59,3 @@ https://darkmysteries.streamlit.app/
 Inspired by classic noir films and a passion for storytelling.
 
 
-- Replace:
-  - `"your-api-key-here"` with a placeholder
-
