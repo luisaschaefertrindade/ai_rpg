@@ -48,14 +48,7 @@ https://darkmysteries.streamlit.app/
 ---
 
 ## Author
-
 **Luísa Schaefer Trindade**
-[GitHub Profile](https://github.com/luisaschaefertrindade)
-
----
-
-## Credits and inspiration
-
-Inspired by classic noir films and a passion for storytelling.
-
+Computational Linguist | NLP Researcher
+GitHub: [luisaschaefertrindade](https://github.com/luisaschaefertrindade/) | LinkedIn: [luisaschaefertrindade](https://www.linkedin.com/in/luisaschaefertrindade/?locale=en_US)
 
